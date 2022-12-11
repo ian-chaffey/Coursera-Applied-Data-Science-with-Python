@@ -3,5 +3,6 @@
 Materials from the courses:
   
   - Introduction to Data Science in Python
+  - Applied Plotting, Charting & Data Representation in Python
 
 are contained within this repository.
